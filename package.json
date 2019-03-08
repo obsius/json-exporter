@@ -1,7 +1,7 @@
 {
 	"name": "json-exporter",
 	"version": "1.0.0",
-	"description": "A small library to provide consistent mouse and touch interactions.",
+	"description": "A small library that takes in a JSON spec describing how to export a known JS object to a file or stream. ",
 	"author": "Jeff Seaman",
 	"contributors": [
 		"Jeff Seaman <mr.jeffrey.seaman@gmail.com> (https://www.ngc6822.com)"
@@ -50,12 +50,13 @@
 	"dependencies": {},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/obsius/mousetouch.git"
+		"url": "https://github.com/obsius/json-exporter.git"
 	},
 	"keywords": [
-		"mouse",
-		"touch",
-		"events",
-		"interaction"
+		"export",
+		"csv",
+		"json",
+		"dynamic",
+		"template"
 	]
 }
